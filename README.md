@@ -2,7 +2,7 @@
 ## SNAKES AND LADDERS GAME - LOW LEVEL DESIGN -Java - OOPS 
 Snake and Ladders game where u play by throughing a dice 
 
-## Problem Statement
+## Problem Statement 
 Create a snake and ladder application. The application should take as input (from the command line or a file):
 => Size of the board. 
 => No of Dices.
